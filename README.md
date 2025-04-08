@@ -1,6 +1,6 @@
 <H3> Name : JEGATHEESWARI R</H3>
 <H3>Register No: 212223230092</H3>
-<H3> Experiment 1</H3>
+<H3> Experiment : 1</H3>
 <H3>DATE:08/04/2025</H3>
 
 # Implementation of Bayesian Networks
